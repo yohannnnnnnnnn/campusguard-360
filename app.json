@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "CampusGuard 360",
+    "slug": "campusguard-app",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "name": "CampusGuard 360 - Smart Campus Access & Student Safety System",
+      "shortName": "CampusGuard 360",
+      "description": "Next-Generation Smart College Campus Access & Real-Time Student Safety Platform"
+    }
+  }
+}
